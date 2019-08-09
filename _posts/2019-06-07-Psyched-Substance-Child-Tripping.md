@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "PsychedSubstance BANNED from Youtube after giving 1yo LSD"
-author_profile: true
+author: Sal Gooben
 last_modified_at: 2019-04-11T16:20:02-05:00
 date: 2019-04-11
 header:

@@ -1,0 +1,11 @@
+# /_data/authors.yml
+
+Hans Runeberg:
+  name        : "Hans Runeberg"
+  bio         : "What do you want, jewels? I am a very extravagant man."
+  avatar      : "/assets/img/bk.jpg"
+
+Sal Gooben:
+  name        : "Sal Gooben"
+  bio         : "where are the rats"
+  avatar      : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ETi4qmA2iP8naNmFoty2uWG5jhbYIT2tBQlZbKZXrayOi2vBdg"
