@@ -22,6 +22,18 @@ share: true
 related: true
 ---
 
+A markdown guide (formatting) can be found [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+A good markdown preview site is [Dillinger](https://dillinger.io/).
+
+
+Paste everything below the `---` into Dillinger for easy editing.
+
+
+
+
+
+
 As many as four residents of Ottawa Canada have recently reported that local cannabis strain *Ridin Thru Kush* has caused [**subconjunctival bleeding**](https://en.wikipedia.org/wiki/Subconjunctival_bleeding) after as little as one toke.
 
 ![ripeye](/assets/img/ripeyed.jpg)

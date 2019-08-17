@@ -14,3 +14,8 @@ Tarl:
   name        : "Dr Tarl Oppenheimer "
   bio         : "Leading expert in cannainformatics & occular permeability"
   avatar      : "/assets/img/tarl.png"
+
+DJ Walnuts:
+  name        : "DJ Walnut"
+  bio         : "Resident nightlife reviewer"
+  avatar      : "/assets/img/djwalnut.png"
