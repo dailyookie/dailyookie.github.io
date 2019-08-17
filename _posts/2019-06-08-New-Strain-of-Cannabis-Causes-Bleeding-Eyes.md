@@ -1,10 +1,3 @@
-[comment]: <> (AUTHOR DETAILS)
-Firstname Lastname:
-  name        : "Firstname Lastname"
-  bio         : ""
-  avatar      : "assets/img/AVATARFILE.png"
-
-[comment]: <> (POST SETTINGS)
 ---
 layout: posts
 title: "Here is my Nicely Formatted Post Title"
