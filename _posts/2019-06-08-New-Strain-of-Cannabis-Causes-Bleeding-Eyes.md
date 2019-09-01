@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "Here is my Nicely Formatted Post Title"
+title: "Canadian Cannabis Creating Crimson Cornea"
 author: Firstname Lastname
 last_modified_at: 2019-08-10T16:20:02-05:00
 date: 2019-08-10
