@@ -16,7 +16,15 @@ related: true
 ```
 Father dearest,
 
-Unfortunately due to my crippling cannabis addiction I have been unable to pull together any money for a present. However please be assured that you are not going to be left without anything on such an important day. For this father’s day I decided to dedicate 10 cones in your name. I know it is unorthodox but please try to understand that I’m doing this from the bottom of my heart. Anyway, I hope you had a fantastic day.
+Unfortunately due to my crippling cannabis addiction,
+I have been unable to pull together any money for a present.
+
+However please be assured that you are not going to be left without anything on such an important day.
+For this father’s day I decided to dedicate 10 cones in your name.
+
+I know it is unorthodox but please try to understand that I’m doing this from the bottom of my heart.
+Anyway, I hope you had a fantastic day.
+
 Love,
 Your son
 ```
